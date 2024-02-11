@@ -1,23 +1,20 @@
-# 👋 Hi, I’m @main-del ( *This README was creatively crafted by ChatGPT.* )
+<h1 align="center">Hi 👋, I'm Hlib Sorvenkov</h1>
+<h3 align="center">SUICT Student | Cybersecurity Enthusiast 🛡️ from Ukraine💙💛</h3>
 
-## 👀 I’m interested in exploring the vast world of technology, from coding to emerging trends.
+- 🔭 I’m currently working on **Securing Web Applications Against SQL Injection Attacks**
 
-## 🌱 I’m currently learning and diving deep into various programming languages and frameworks.
+- 🌱 I’m currently learning **Penetration Testing Techniques and Tools**
 
-## 💞️ I’m looking to collaborate on exciting open-source projects and connect with fellow tech enthusiasts.
+- 👯 I’m looking to collaborate on **Building a Secure Network Infrastructure**
 
-## 📫 How to reach me: Feel free to connect.
+- 🤝 I’m looking for help with **Implementing Cryptography Algorithms in Python**
 
-## 😄 Pronouns: He/Him
+- 👨‍💻 All of my projects are available at [https://github.com/main-del](https://github.com/main-del)
 
-## ⚡ Fun fact: I have a knack for solving Rubik's cubes in record time!
+- 📝 I regularly write articles on [https://medium.com/@main-del](https://medium.com/@main-del)
 
----
+- 💬 Ask me about **Network Security, Vulnerability Assessment, and Firewall Configuration**
 
+- 📫 How to reach me **hlibsorvenkov@outlook.com**
 
-
-
-<!---
-main-del/main-del is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- 📄 Know about my experiences [https://www.linkedin.com/in/del0x3/](https://www.linkedin.com/in/del0x3/)
